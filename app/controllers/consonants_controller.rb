@@ -1,0 +1,2 @@
+class ConsonantsController < ApplicationController
+end
